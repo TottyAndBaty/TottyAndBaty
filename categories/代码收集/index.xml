@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>代码收集 on 赛博朋克农民</title>
+    <link>http://localhost:1313/categories/%E4%BB%A3%E7%A0%81%E6%94%B6%E9%9B%86/</link>
+    <description>Recent content in 代码收集 on 赛博朋克农民</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <atom:link href="http://localhost:1313/categories/%E4%BB%A3%E7%A0%81%E6%94%B6%E9%9B%86/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
